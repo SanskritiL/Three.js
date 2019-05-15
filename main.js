@@ -1,0 +1,12 @@
+var scene,
+    camera,
+    controls,
+    fieldOfview,
+    aspectRatio,
+    nearPlane,
+    farPlane,
+    shadowLight,
+    backLight,
+    light,
+    renderer,
+    container;
